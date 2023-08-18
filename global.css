@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-clash-display: "Clash Display";
+  
+    /* font sizes */
+    --font-size-sm: 14px;
+    --font-size-3xl: 22px;
+    --font-size-xs: 12px;
+    --font-size-9xl: 28px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --text: #111;
+    --color-gray-100: rgba(255, 255, 255, 0.6);
+    --color-gray-200: rgba(0, 0, 0, 0.15);
+    --p-v20: #8aa6aa;
+    --color-darkgray-100: rgba(138, 166, 170, 0.5);
+    --p-v18: #cdd7d8;
+  
+    /* Gaps */
+    --gap-9xs: 4px;
+    --gap-xs: 12px;
+    --gap-5xs: 8px;
+    --gap-base: 16px;
+    --gap-10xl: 29px;
+    --gap-xl: 20px;
+  
+    /* Paddings */
+    --padding-8xs: 5px;
+    --padding-xl: 20px;
+    --padding-3xs: 10px;
+    --padding-xs: 12px;
+  
+    /* border radiuses */
+    --br-xl: 20px;
+    --br-lg: 18px;
+    --br-7xs: 6px;
+    --br-mini: 15px;
+    --br-31xl: 50px;
+  }
+  
